@@ -55,6 +55,14 @@
       <artifactId>camel-test</artifactId>
       <scope>test</scope>
     </dependency>
+
+    <!-- jetty -->
+    <dependency>
+      <groupId>org.apache.camel</groupId>
+      <artifactId>camel-jetty</artifactId>
+      <version>3.16.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>
