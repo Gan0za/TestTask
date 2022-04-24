@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c77e9c-b6f7-4df3-a0ef-9e9144c934a5" name="Changes" comment="Testing query">
+    <list default="true" id="a4c77e9c-b6f7-4df3-a0ef-9e9144c934a5" name="Changes" comment="Method Post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyRouteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyRouteBuilder.java" afterDir="false" />
     </list>
@@ -79,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing query" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing query" />
+    <MESSAGE value="Method Post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method Post" />
   </component>
 </project>
