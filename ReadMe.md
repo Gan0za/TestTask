@@ -20,7 +20,7 @@ You can find more information about Apache Camel at the website: http://camel.ap
 
 Test post querie
 
-    curl -X POST -H "Content-Type: application/json" -d '{"name": "linuxize", "email": "linuxize@example.com"}' http://localhost:8888/echo
+    curl -X POST -H "Content-Type: application/json" -d '{"text": "test"}' http://localhost:8888/echo
 
 Test simple querie
 
