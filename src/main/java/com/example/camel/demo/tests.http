@@ -1,0 +1,7 @@
+### тестовый запрос(работает только в intellij Idea)
+POST http://localhost:8080/camel/api/processRequest
+Content-Type: application/json
+
+{"name": "test"}
+
+###
